@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ORD-101",
+    "items": [
+      {
+        "sku": "KB-01",
+        "quantity": 2,
+        "unit_price": 120
+      },
+      {
+        "sku": "MS-02",
+        "quantity": 1,
+        "unit_price": 140
+      }
+    ]
+  },
+  {
+    "id": "ORD-102",
+    "items": [
+      {
+        "sku": "MON-03",
+        "quantity": 1,
+        "unit_price": 900
+      }
+    ]
+  }
+]
